@@ -1,4 +1,3 @@
-self.window = {};
 importScripts('/plugin/highlight/highlight.js');
 
 onmessage = (event) => {
